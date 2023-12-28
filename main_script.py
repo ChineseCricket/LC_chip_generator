@@ -9,7 +9,7 @@ can be used for any type of chip, but that might need a little tweaking.
 
 I wasn't extremelly clean when I made the code, so some parameters are pulled from a text file at the 
 beginning of the code, while other parameters are set on the "Parameters_Classes_example_chip" python
-file containing classes for different cells.  Please make sure sure you adjust those per your needs.
+file containing classes for different cells.  Please make sure you adjust those per your needs.
 
 The code generates an output file. Please update the location of the output directory to a folder on 
 your computer outside of the repository.
